@@ -1,0 +1,7 @@
+h5py
+pytorch-lightning
+torch
+tqdm
+transformers
+datasets
+nltk
